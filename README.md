@@ -6,8 +6,11 @@ Plus en apprendre plus voir
 
 https://github.com/Reyoth/initiationPython/
 
+
 https://scratch.mit.edu/users/webin/
+
 https://scratch.mit.edu/users/simonFob/
+
 
 https://www.codingame.com/profile/29673083339e4c7f9287fe112ea7d20a8667382
 
